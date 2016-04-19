@@ -13,3 +13,5 @@ tags:
   - Graphics
 extra_resources:
   - "https://www.packtpub.com/game-development/opengl-4-shading-language-cookbook-second-edition"
+connections:
+  - "basic-particle-emitter-tutorial"
