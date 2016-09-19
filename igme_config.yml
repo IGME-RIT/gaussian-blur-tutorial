@@ -1,3 +1,4 @@
+series: GLFW Graphics
 title: Gaussian Blur Tutorial
 author:
   name: IGME-RIT
@@ -5,13 +6,11 @@ author:
   github: igme-rit
 description: This demo demonstrates the implementation of Gaussian blur filter using fragment shader.
 language: C++
-image:
-  icon: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
-  banner: https://cloud.githubusercontent.com/assets/10502938/13506660/28be0300-e14d-11e5-90e3-b194f14e52bd.PNG
 tags:
-  - C++
   - Graphics
 extra_resources:
-  - "https://www.packtpub.com/game-development/opengl-4-shading-language-cookbook-second-edition"
+  - title: OpenGL 4 Shading Language Cookbook (2nd ed.), by David Wolff
+    link: "https://www.packtpub.com/game-development/opengl-4-shading-language-cookbook-second-edition"
 connections:
-  - "basic-particle-emitter-tutorial"
+  - series: GLFW Graphics
+    title: Basic Particle Emitter
